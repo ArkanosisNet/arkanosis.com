@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/arkanosis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://arkanosis.com
+  * I am arkanosis (https://keybase.io/arkanosis) on keybase.
+  * I have a public key with fingerprint FA49 0B15 D054 C7E8 3F70  B040 8C14 5ABA C11F A702
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fa490b15d054c7e83f70b0408c145abac11fa702",
+            "host": "keybase.io",
+            "key_id": "8c145abac11fa702",
+            "uid": "836c0a714e00eb5d44a4ca5cf9007f00",
+            "username": "arkanosis"
+        },
+        "service": {
+            "hostname": "arkanosis.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402515464,
+    "expire_in": 157680000,
+    "prev": "81413c572e32cb7eafb60e950ffdac967d4d1c990ab318a158f5a186d3fa489d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+owGbwMvMwMTYIxK166D8cibG0we+JjEEz9ggXa2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslNISTSwNkgxNUwxMTZLNUy2M08wNkgxMDCySDU1ME5MSkw0N0xLNDYyU
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pRAJY7Nkg0RzQ5NUA4PUJNMUE5NE
+k+RE0+Q0SwMD8zQDA5DC4tSivMTcVKDqxKLsxLz84sxipVodJaBwWWZyKsjRILvR
+legl5+cCdRcU5ZfkJ+fnAKUySkoKrEA6SyoLQErLU5PioYbEJ2XmpQB9DtRQllpU
+nJmfp2RlCFSZXJIJMtXQxMDI1NDUxMxERym1oiCzKDU+E6TC1NzMwgAIQNakloG8
+Y2hiaJxsam6UamyUnGSempiWZGaQamlqkJaWkphsaWaeYpJimGxpaZCYZGxokWho
+apFmmmhoYZZiDAxpC8sUJZC3CvPygWYDDS1JTAeaWZyZnpdYUlqUqlTL1ckkw8LA
+yMTAxsoEij0GLk4BWJzGXef/KzPLqsT+x54zW3gP6b20WMiTLdi6WK9xypo681R1
+IaYDSkvLmO7vcg9jtylNmfvedu/a2ZIuL1v8XGbHWlw8+dC1dA5Ho/dc+0zTh3UK
+kw/U7ixhuTSVRe4Py5r1Bdkbjr09vvKQc1ky38bAG9fKvs0t7bM9f+HgFdX0g9sE
+3Zy3T5t1X9n99q/VtT7znVL2+GTPvTF1SvayxAkTrszaPMM7eV2pV8Xp8BsLa+ec
+meGiE6nQl35KxfvM5efzHjZf1lyowrZn0cUDf7sMYyY892T43rMjrvPV9tuKWrxM
+EjEPD7CcV2L87Zb41d2i8tMj09KyqR8V5iiJLFROOKOVyrK3oUc4bfnH5DkPZ97Y
+vnRhhnf724UxzW/e3lG1OpxkoXk+aSVXqNkBo3sGNVcO9UWHv1TfO1c4qH/f1cQj
+q6+WCe/wDHe75CTlP+lr+xdzHusP93/8fihmuWT6m8NpPWzL8mP0Lop7qrPu66j6
+qCXP+vdXWLt+zi7XqTY3Zy1uUboR3PXftvbHv40r7VvPrP+RuK0jUXT7784Dl6S7
+toqqndd1frTHQ3DZ5LzP7HK9+Tu7Fj2NKtP69yfySBbjjzX7yvd5HvpX/tCF6/mv
+F4uaHZ9eF/o1d/stxYe3fqTLOdYFTjGYvPfm42NZ5xRL/OZxdb+373V8POPbsccb
+9wuxlcdndr6VtvUQ3y/5Sn1PT0jb0lPqVvWlf7p9cvkB
+=kRPX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arkanosis
+
+==================================================================
